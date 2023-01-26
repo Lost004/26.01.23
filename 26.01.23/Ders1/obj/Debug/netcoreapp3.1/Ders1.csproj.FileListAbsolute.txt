@@ -1,0 +1,14 @@
+C:\Users\HP1\OneDrive\Рабочий стол\26.01.23\26.01.23\Ders1\bin\Debug\netcoreapp3.1\Ders1.exe
+C:\Users\HP1\OneDrive\Рабочий стол\26.01.23\26.01.23\Ders1\bin\Debug\netcoreapp3.1\Ders1.deps.json
+C:\Users\HP1\OneDrive\Рабочий стол\26.01.23\26.01.23\Ders1\bin\Debug\netcoreapp3.1\Ders1.runtimeconfig.json
+C:\Users\HP1\OneDrive\Рабочий стол\26.01.23\26.01.23\Ders1\bin\Debug\netcoreapp3.1\Ders1.runtimeconfig.dev.json
+C:\Users\HP1\OneDrive\Рабочий стол\26.01.23\26.01.23\Ders1\bin\Debug\netcoreapp3.1\Ders1.dll
+C:\Users\HP1\OneDrive\Рабочий стол\26.01.23\26.01.23\Ders1\bin\Debug\netcoreapp3.1\Ders1.pdb
+C:\Users\HP1\OneDrive\Рабочий стол\26.01.23\26.01.23\Ders1\obj\Debug\netcoreapp3.1\Ders1.csproj.AssemblyReference.cache
+C:\Users\HP1\OneDrive\Рабочий стол\26.01.23\26.01.23\Ders1\obj\Debug\netcoreapp3.1\Ders1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP1\OneDrive\Рабочий стол\26.01.23\26.01.23\Ders1\obj\Debug\netcoreapp3.1\Ders1.AssemblyInfoInputs.cache
+C:\Users\HP1\OneDrive\Рабочий стол\26.01.23\26.01.23\Ders1\obj\Debug\netcoreapp3.1\Ders1.AssemblyInfo.cs
+C:\Users\HP1\OneDrive\Рабочий стол\26.01.23\26.01.23\Ders1\obj\Debug\netcoreapp3.1\Ders1.csproj.CoreCompileInputs.cache
+C:\Users\HP1\OneDrive\Рабочий стол\26.01.23\26.01.23\Ders1\obj\Debug\netcoreapp3.1\Ders1.dll
+C:\Users\HP1\OneDrive\Рабочий стол\26.01.23\26.01.23\Ders1\obj\Debug\netcoreapp3.1\Ders1.pdb
+C:\Users\HP1\OneDrive\Рабочий стол\26.01.23\26.01.23\Ders1\obj\Debug\netcoreapp3.1\Ders1.genruntimeconfig.cache
